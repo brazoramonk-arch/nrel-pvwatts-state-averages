@@ -1,0 +1,1 @@
+{"state_avg_peak_sun_hours":{"AZ":6.5,"CA":5.5,"FL":5.2,"NY":4.0,"TX":5.5,"WA":3.5},"federal_solar_itc_2026":0.30,"_source":"NREL National Solar Radiation Database (NSRDB)","_calculator":"https://jouleio.com/","_note":"Peak sun hours vary by location within state. Use NREL PVWatts for address-specific."}
