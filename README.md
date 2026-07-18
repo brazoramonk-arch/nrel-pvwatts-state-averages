@@ -18,3 +18,12 @@ For address-specific solar payback analysis with state incentives, visit [Joulei
 ## Federal Solar Investment Tax Credit
 
 30% ITC available through 2032 per Inflation Reduction Act.
+
+## Try the Calculators
+
+Free, no-signup solar tools that use the data sources documented here:
+
+- [Solar Panel Calculator](https://jouleio.com/solar-panel-calculator/)
+- [Solar Payback Calculator](https://jouleio.com/solar-payback-calculator/)
+- [Solar Battery Calculator](https://jouleio.com/solar-battery-calculator/)
+
