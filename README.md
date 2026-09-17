@@ -27,3 +27,4 @@ Free, no-signup solar tools that use the data sources documented here:
 - [Solar Payback Calculator](https://jouleio.com/solar-payback-calculator/)
 - [Solar Battery Calculator](https://jouleio.com/solar-battery-calculator/)
 
+> **Federal credit status (updated 2026-09-17):** the residential clean energy credit (§25D), the energy efficient home improvement credit (§25C) and the clean vehicle credits (§30D/§25E) ended for property/vehicles acquired after 2025 under the One Big Beautiful Bill Act; the EV charger credit (§30C) ended after June 30, 2026. Any federal credit fields in this dataset are historical.
